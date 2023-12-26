@@ -1,0 +1,2 @@
+- My bachelor's thesis, [Provisioning of Monitoring Infrastructure for Traffic Flow Collection](./bachelors.pdf)
+- My master's thesis, [High-Performance Object Storage in Kubernetes Cluster](masters.pdf)
